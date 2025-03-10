@@ -50,7 +50,7 @@ const Home = () => {
             </div>
             <div className="hidden md:block">
               <motion.img
-                src="https://webgraphproject-git-main-djafarov05s-projects.vercel.app/public/jamal logo 2_page-0001.png"
+                src="/jamal_logo_2_page-0001.png"
                 alt="JamalTheCreator Logo"
                 className="w-full max-w-md mx-auto animate-float"
                 initial={{ scale: 0.8, opacity: 0 }}

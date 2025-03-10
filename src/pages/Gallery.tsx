@@ -4,30 +4,30 @@ import { motion } from 'framer-motion';
 const Gallery = () => {
   const images = [
     {
-      src: 'https://webgraphproject-git-main-djafarov05s-projects.vercel.app/public/bubble.png',
+      src: '/bubble.png',
       title: 'Bubble Typography',
-      description: '3D bubble text design exploration'
+      description: '3D bubble text design exploration',
     },
     {
-      src: 'https://webgraphproject-git-main-djafarov05s-projects.vercel.app/public/fluffy.png',
+      src: '/fluffy.png',
       title: 'Fluffy Text Effect',
-      description: 'Experimental typography with texture'
+      description: 'Experimental typography with texture',
     },
     {
-      src: 'https://webgraphproject-git-main-djafarov05s-projects.vercel.app/public/shark.png',
+      src: '/shark.png',
       title: 'Minimalist Shark',
-      description: 'Clean vector illustration'
+      description: 'Clean vector illustration',
     },
     {
-      src: 'https://webgraphproject-git-main-djafarov05s-projects.vercel.app/jamal logo 2_page-0001.png',
+      src: '/jamal_logo_2_page-0001.png',
       title: 'Brand Identity',
-      description: 'Personal brand logo design'
+      description: 'Personal brand logo design',
     },
     {
-      src: 'https://webgraphproject-git-main-djafarov05s-projects.vercel.app/public/squares.png',
+      src: '/squares.png',
       title: 'Geometric Composition',
-      description: 'Abstract design with shapes and colors'
-    }
+      description: 'Abstract design with shapes and colors',
+    },
   ];
 
   return (
