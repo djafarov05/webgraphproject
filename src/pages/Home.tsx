@@ -50,7 +50,7 @@ const Home = () => {
             </div>
             <div className="hidden md:block">
               <motion.img
-                src="/jamal logo 2_page-0001.png"
+                src="/public/jamal logo 2_page-0001.png"
                 alt="JamalTheCreator Logo"
                 className="w-full max-w-md mx-auto animate-float"
                 initial={{ scale: 0.8, opacity: 0 }}

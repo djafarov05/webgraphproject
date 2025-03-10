@@ -4,17 +4,17 @@ import { motion } from 'framer-motion';
 const Gallery = () => {
   const images = [
     {
-      src: '/bubble.png',
+      src: '/public/bubble.png',
       title: 'Bubble Typography',
       description: '3D bubble text design exploration'
     },
     {
-      src: '/fluffy.png',
+      src: '/public/fluffy.png',
       title: 'Fluffy Text Effect',
       description: 'Experimental typography with texture'
     },
     {
-      src: '/shark.png',
+      src: '/public/shark.png',
       title: 'Minimalist Shark',
       description: 'Clean vector illustration'
     },
@@ -24,7 +24,7 @@ const Gallery = () => {
       description: 'Personal brand logo design'
     },
     {
-      src: '/squares.png',
+      src: '/public/squares.png',
       title: 'Geometric Composition',
       description: 'Abstract design with shapes and colors'
     }
